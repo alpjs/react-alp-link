@@ -1,5 +1,7 @@
 # react-alp-link [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alpjs/react-alp-link.svg)](https://greenkeeper.io/)
+
 react link with limosa router
 
  [![Dependency Status][daviddm-image]][daviddm-url]
